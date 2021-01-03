@@ -1,7 +1,8 @@
 import React from 'react'
+import SplitLandingPage from './components/SplitLandingPage'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <SplitLandingPage />
 }
 
 export default App

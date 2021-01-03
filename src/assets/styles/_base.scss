@@ -6,8 +6,13 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  @include center;
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
 }
